@@ -423,6 +423,7 @@ You can see in which language an app is written. Currently there are following l
 - [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS.   ![objective_c_icon] 
 - [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist.  ![swift_icon] 
 - [syncthing-macosx](https://github.com/syncthing/syncthing-macos) - Frugal nativemacOS macOS Syncthing application bundle.  ![objective_c_icon] 
+- [KubeContext](https://github.com/turkenh/KubeContext) - Import, manage and switch between your Kubernetes Contexts on Mac.  ![swift_icon] 
 
 ### Podcast
 - [Cumulonimbus](https://github.com/z-------------/CPod) - Simple, beautiful podcast app.  ![javascript_icon] 
